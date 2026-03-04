@@ -1,0 +1,9 @@
+.content0{
+     display: flex;
+}
+.content0{
+        display: grid;
+        grid-template-columns: 25% 75%;
+    
+}
+   
